@@ -18,9 +18,9 @@
 
 pragma solidity 0.4.24;
 
-import "../../protocol/Exchange/interfaces/IExchange.sol";
-import "../../tokens/EtherToken/IEtherToken.sol";
-import "../../tokens/ERC20Token/IERC20Token.sol";
+import "../../../protocol/Exchange/interfaces/IExchange.sol";
+import "../../../tokens/EtherToken/IEtherToken.sol";
+import "../../../tokens/ERC20Token/IERC20Token.sol";
 
 
 contract LibConstants {
